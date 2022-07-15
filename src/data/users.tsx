@@ -152,6 +152,14 @@ const Users: User[] = [
     tags: ['apps', 'impact', 'popular'],
   },
   {
+    title: 'LeafCelo',
+    description: 'LeafCelo is developing lenrefugee, a guarantor-backed DeFi lending platform for refugees.',
+    preview: require('./showcase/leafcelo.png'),
+    website: 'https://leafglobalfintech.com/',
+    source: 'https://github.com/LeafGlobalFintech/leafcelo',
+    tags: ['apps', 'impact'],
+  },
+  {
     title: 'Emerging Impact',
     description: 'EI empowers NGOs, governments, and social enterprises to modernize financial services in emerging markets with blockchain technology.',
     preview: require('./showcase/umoja.png'),
